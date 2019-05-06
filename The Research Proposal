@@ -1,0 +1,9 @@
+Problem Statement: How to improve the conversion rate of the droids? The Sith Lords are concerned that their recruiting slogan, "Give In to Your Anger," isn't very effective.
+
+Solution: Propose a new slogan.
+
+Initial design: A/B testing
+
+Analysis plan: Divide the droids into 2 groups. Make sure the groups are of equal size, without any bias. There should not be any bias in terms of demographic
+or psychographic factors. Test 'Anger' slogan on group 'A' and 'Together' slogan on group 'B'. The variable of interest is 'Droid conversion' in both groups.
+Find the number of doids converted from each group. If the difference b/w the conversion rate from each group varies by 50% then declare the slogan with the highest conversion rate.
